@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="3layers-lab/3layers-lab.csproj" Id="7ce35693-4b68-417a-927d-27586ef71edf" />
+  <Project Path="BAL/BAL.csproj" Id="8734819f-57b4-4260-8fea-a3e2d2a49ec1" />
+  <Project Path="DAL/DAL.csproj" Id="d3eec68b-1fa3-4e9b-894d-e2b0f800657b" />
+  <Project Path="people/people.csproj" Id="403534f1-fb38-495c-9537-c576b7d413cf" />
+</Solution>
